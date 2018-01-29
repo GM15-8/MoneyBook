@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MoneyBook</string>
+    <string name="wallet_name">Portfel</string>
+    <string name="addTransaction_name">Dodawanie płatności</string>
+    <string name="period_text">Zakres: </string>
+    <string-array name="menuArray">
+        <item>Start</item>
+        <item>Portfel</item>
+        <item>Skarbonka</item>
+        <item>Płatność</item>
+        <item>Statystyki</item>
+    </string-array>
+    <string name="wallet_text">Portfel</string>
+    <string name="addTransaction_text">Nowa płatność</string>
+    <string name="open_drawer">Otwórz szufladę</string>
+    <string name="close_drawer">Zamknij szufladę</string>
+    <string-array  name="payment_category">
+        <item>Inne</item>
+        <item>Żywność</item>
+        <item>Chemia</item>
+        <item>Higiena os.</item>
+        <item>Odzież</item>
+        <item>Rozrywka</item>
+        <item>Sport</item>
+        <item>Art. domowe</item>
+        <item>Samochód</item>
+        <item>Zwierzęta</item>
+        <item>Rachunki</item>
+    </string-array>
+    //String for payment activity:
+    <string name="value">Wartość</string>
+    <string name="category">Kategoria</string>
+    <string name="name">Nazwa</string>
+    <string name="date">Data</string>
+    <string name="description">Opis</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="annuled">Anuluj</string>
+    <string name="clean">Wyczyść</string>
+    <string name="valueStart">0.00</string>
+    <string name="change_date">Zmień</string>
+    <string name="date_picker">Date picker</string>
+    <string name="name_hint">Nazwa</string>
+    <string name="description_hint">Opis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
